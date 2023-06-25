@@ -1,6 +1,6 @@
 ![logo](https://static.wixstatic.com/media/73ac76_36cb87ec57494390b39bc6a10852a155~mv2.gif)
 <h1 align="center">Hi 👋, I'm Bale Vishnu Vardhan</h1>
-<h3 align="center">An aspiring web developer</h3>
+<h3 align="center">An Aspiring Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e99ebbea9b97b0eb6c21ec49247354c453de695c1586178666e02e05fb3aca6c/68747470733a2f2f692e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnu-2210&label=Profile%20views&color=0e75b6&style=flat" alt="vishnu-2210" /> </p>
